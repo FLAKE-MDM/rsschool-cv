@@ -1,1 +1,1 @@
-https://FLAKE-MDM.github.io/rsschool-cv/cv
+https://FLAKE-MDM.github.io/rsschool-cv/
